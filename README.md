@@ -1,4 +1,3 @@
 # PopLife
-Parte de ESX editada + mi parte. Código de mala calidad, picado durante 2k17 y 2k18. FiveM cambió mucho y sumado a más cosas recomiendo no usarlo, pero como mucha gente va vendiendo el sv, espero que ahora bajen los precios ya que mi parte está liberada ;)
-
-Hay scripts que son de ni cuando existía el ESX, así que imaginaros...
+Base (parte ESX modificada y mi parte) de PoPLife de 2017 a 2018. Recomiendo sólo usar este código como ejemplo, pues muchas cosas están mal hechas y no bien optimizadas ya que FiveM cambió mucho y con él las formas de hacer ciertas cosas. Libero el código ya que durante 2019, con PoPLife todavía activo, y 2020 principalmente, mucha gente estaba vendiendo la base leakeada y dumpeada.
+Hay scripts que están picados antes de la aparición del framwerok es_extended (ESX).
